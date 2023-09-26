@@ -1,7 +1,7 @@
 from utils import database
 
 """
-This is the main file that holds the menu and its operations
+This is the main file that holds the menu and its operations.
 """
 
 

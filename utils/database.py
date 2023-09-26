@@ -2,7 +2,7 @@ from utils.database_connection import DatabaseConnection
 import sqlite3
 
 """
-This file is concerned with adding, updating, storing and retrieving books from the database
+This file is concerned with adding, updating, storing and retrieving books from the database.
 """
 
 
